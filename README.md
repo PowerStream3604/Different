@@ -28,7 +28,7 @@ this is the file for the design of Register.html file
 
 ## Register.html
 page that gets the input for registration
-
+![registration](https://user-images.githubusercontent.com/63450340/106702325-80796b80-662b-11eb-9090-747d56ad7e5a.PNG)
 ## register.js
 javascript file that validates for the input and sends data to email authentication page(emailSendAction.jsp) and also to regsterPro.jsp for registeration and to confirmId.jsp to check whether the Id is valid.
 
