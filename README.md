@@ -28,6 +28,7 @@ this is the file for the design of Register.html file
 
 ## Register.html
 page that gets the input for registration
+
 ![registration](https://user-images.githubusercontent.com/63450340/106702325-80796b80-662b-11eb-9090-747d56ad7e5a.PNG)
 ## register.js
 javascript file that validates for the input and sends data to email authentication page(emailSendAction.jsp) and also to regsterPro.jsp for registeration and to confirmId.jsp to check whether the Id is valid.
@@ -52,6 +53,7 @@ java file that has the information(email address, password) to connect to google
 
 ## Login.html
 this file has css part itself. html file that gets the input.
+
 ![login](https://user-images.githubusercontent.com/63450340/106701774-8c186280-662a-11eb-8182-186593475e52.PNG)
 ## login.js 
 uses ajax to give the inputted value to loginPro.jsp and do the validation
