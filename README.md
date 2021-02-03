@@ -52,7 +52,7 @@ java file that has the information(email address, password) to connect to google
 
 ## Login.html
 this file gets css part itself. html file that gets the input.
-
+![login](https://user-images.githubusercontent.com/63450340/106701561-35128d80-662a-11eb-89da-19223392188c.PNG)
 ## login.js 
 uses ajax to give the inputted value to loginPro.jsp and do the validation
 
